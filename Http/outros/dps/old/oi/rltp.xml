@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+</Style>
+<Style ss:ID="PrintSHeader">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s1">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s3">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s4">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s5">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s6">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s7">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3">
+</Border>
+</Borders>
+</Style>
+<Style ss:ID="s8">
+<Alignment ss:Horizontal="Left">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+</Style>
+<Style ss:ID="s9">
+<Alignment ss:Horizontal="Left">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+</Style>
+<Style ss:ID="s10">
+<Alignment ss:Horizontal="Left">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+</Style>
+<Style ss:ID="s11">
+<Alignment ss:Horizontal="Center">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+<NumberFormat ss:Format="0"/></Style>
+<Style ss:ID="s12">
+<Alignment ss:Horizontal="Center">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+<NumberFormat ss:Format="0.00"/></Style>
+<Style ss:ID="s13">
+<Alignment ss:Horizontal="Left">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+<NumberFormat ss:Format="0.00"/></Style>
+<Style ss:ID="s14">
+<Alignment ss:Horizontal="Right">
+</Alignment>
+<Font ss:FontName="Courier New" ss:Size="11">
+</Font>
+<NumberFormat ss:Format="0.00"/></Style>
+</Styles>
+<Worksheet ss:Name="99-01 - RESUMO DE VENDA POR CL">
+<Table>
+<Column ss:Index="1" ss:Width="44">
+</Column>
+<Column ss:Index="2" ss:Width="220">
+</Column>
+<Column ss:Index="3" ss:Width="29">
+</Column>
+<Column ss:Index="4" ss:Width="51">
+</Column>
+<Column ss:Index="5" ss:Width="124">
+</Column>
+<Column ss:Index="6" ss:Width="102">
+</Column>
+<Column ss:Index="7" ss:Width="95">
+</Column>
+<Row>
+<Cell>
+<Data ss:Type="String"><![CDATA[Dt.Ref: 25/05/2022]]></Data>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="String"><![CDATA[Hora: 16:34:51]]></Data>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="String"><![CDATA[Emissão: 25/05/2022]]></Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s1">
+<Data ss:Type="String"><![CDATA[Codigo]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s2">
+<Data ss:Type="String"><![CDATA[Nome]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s3">
+<Data ss:Type="String"><![CDATA[Loja]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s4">
+<Data ss:Type="String"><![CDATA[Pedidos]]></Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s5">
+<Data ss:Type="String"><![CDATA[Produtos Vendidos]]></Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s6">
+<Data ss:Type="String"><![CDATA[Vlr.Total]]></Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s7">
+<Data ss:Type="String"><![CDATA[MEDIA PRODUTO]]></Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[000541]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[JOSE NALTO DE SOUZA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">63</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2436</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">5436.45</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.23171182</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[001631]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[DISTRIBUIDORA DE VAR GLOBO EIRELI ME]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">17</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2970</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">6176.46</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.07961616</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[001871]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[LOJAS MIMI COM DE UTENS DOMEST  LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">43</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1332</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2213.16</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.66153153</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[001932]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[RODOLFO GASPAR PINTO]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">69</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1112</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">3108.91</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.79578237</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002003]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[MARIA DO SOCORRO PESSOA DANTAS]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">9</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">276</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1393.04</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">5.04724638</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002029]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[HIROSHIMA PARTICIPACOES E COMERCIO LTDA.]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">7</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1656</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2255.52</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.36202899</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002061]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[IRMAOS BENSI LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">55</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">990</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1312.83</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.32609091</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002184]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[TUDO MAIS VOCE UTIL. E PRES. LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">43</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">857</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2445.61</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.85368728</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002225]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[M.E.K. MOHAMAD ABDOUNI EMPORIO]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">49</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">673</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1340.39</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.99166419</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002283]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[NEWSCAP BAZAR UTIL. DOMS. LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">6</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">144</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1263.96</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">8.7775</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002293]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[EDINALDO ALVES DE OLIVEIRA OURICURI ME]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">37</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">498</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2247.69</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">4.51343373</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[002656]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[AKIKO COM VAR DE ART DE UTIL DOM LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">23</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">664</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1258.83</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.89582831</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003054]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[MERCADAO POPULAR LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">58</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1240</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">3263.13</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.63155645</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003111]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[MASTER COMERCIO DE UTILIDADES LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">17</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">450</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">4399.35</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">9.77633333</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003212]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[CARLOS ANTONIO FERREIRA FRANCA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">60</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1218</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">3091.77</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.53839901</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003302]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[FRAZATTO COMERCIO DE UTIL DOM LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">56</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1118</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2087.35</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.86703936</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003343]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[GERMAN COM DE UTILIDS DOMESTICAS LTDA EP]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">13</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1314</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2849.76</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.16876712</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003344]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[CAMPINEIRA UTILIDADES LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">24</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2792</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">6625.64</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.37308023</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003413]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[A E A GOMES ME]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">52</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">3000</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2789.16</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">0.92972</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003498]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[FORTE DA ECONOMIA COM DE ARM LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">13</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">313</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">719.09</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.29741214</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003582]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[WAGNER FILINKOVISKI DA ROSA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">141</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">4327</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">9506.95</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.19712272</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003586]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[PRATES & FILINKOSKI COMER VAR LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">137</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2356</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">5285.97</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.24362054</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003689]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[GRX UTILIDADES DOMESTICAS LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">50</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1272</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2006.55</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.57747642</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003731]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[POUPE FACIL COM DE VARIEDADES LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">137</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1880</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2043.47</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.08695213</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[003979]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[PEDRO PAULO NUNES MASSENA E CIA LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">118</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">3134</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">7562.55</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.41306637</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004025]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[REAL JABAQUARA LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">65</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1434</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">3090.99</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.15550209</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004104]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[UAU VARIEDADES LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">85</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">4960</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">5985.87</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.20682863</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004298]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[MARCELINO GALINDO DE MELO]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">55</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">3413</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">5629.13</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.64932025</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004486]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[JOSE EUDIMAR ARRUDA DA SILVA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">76</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2076</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">4669.16</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.24911368</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004559]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[JLL UTILIDADES SANTO ANTONIO EIRELI - ME]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">53</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1020</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2563.07</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.51281373</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004619]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[MACENA E GALERIANI COM LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">39</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1276</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2515.02</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.97101881</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004659]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[DALLA VALLE REAL COM UTENS DOM LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">1</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">144</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1785.6</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">12.4</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004706]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[MICHELLE APARECIDA PEREIRA DA SILVA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">41</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">640</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">856.12</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.3376875</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004708]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[LOJA DO VIZINHO UTIL DOM LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">91</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1674</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1305.38</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">0.77979689</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004741]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[RAIMUNDO RONICHARLES P PRESENTE CIA LTDA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">70</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1435</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">4064.75</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.8325784</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004752]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[JOSE CARLOS FREIRE ME]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">17</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">700</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">1719.08</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.45582857</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[004842]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[W RODRIGUES OSVALDO EIRELI]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">42</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2016</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2048.1</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.01592262</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[200508]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[HERMOGEANE LINS E FREITAS]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">87</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">1532</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">2244.7</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.46520888</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[200530]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[ADINILSON DO CARMO DE CASTRO ME]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">110</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">5214</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">10338.62</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">1.98285769</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="1" ss:StyleID="s8">
+<Data ss:Type="String"><![CDATA[201581]]></Data>
+</Cell>
+<Cell ss:Index="2" ss:StyleID="s9">
+<Data ss:Type="String"><![CDATA[ROSANGELA DE MELO UVA]]></Data>
+</Cell>
+<Cell ss:Index="3" ss:StyleID="s10">
+<Data ss:Type="String"><![CDATA[01]]></Data>
+</Cell>
+<Cell ss:Index="4" ss:StyleID="s11">
+<Data ss:Type="Number">112</Data>
+</Cell>
+<Cell ss:Index="5" ss:StyleID="s12">
+<Data ss:Type="Number">2018</Data>
+</Cell>
+<Cell ss:Index="6" ss:StyleID="s13">
+<Data ss:Type="Number">4448.04</Data>
+</Cell>
+<Cell ss:Index="7" ss:StyleID="s14">
+<Data ss:Type="Number">2.20418236</Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
